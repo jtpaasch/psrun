@@ -1,0 +1,10 @@
+*~
+*.swp
+venv
+dist
+__pycache__
+*.pyc
+*.egg*
+.tox
+.coverage*
+
