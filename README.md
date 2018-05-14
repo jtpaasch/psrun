@@ -32,7 +32,7 @@ To send the stdout of `ls -la` to, say, stdout:
 
 To send the stderr of `ls -la` to, say, stderr:
 
-    psrun 'ls -la' --stdout-log stdout
+    psrun 'ls -la' --stderr-log stderr
 
 To silence the runner's information:
 
